@@ -1,0 +1,32 @@
+﻿  Plot2DViewer.cpp
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(21): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(25): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(77): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(78): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(149): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(150): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(151): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(152): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(163): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(164): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(165): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(166): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(175): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(176): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(177): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(178): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(220): warning C4244: =: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+C:\WORK\KG\1\Plot2DViewer\Camera2D.h(221): warning C4244: =: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+C:\WORK\KG\1\Plot2DViewer\Scene2D.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WORK\KG\1\Plot2DViewer\Scene2D.h(42): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WORK\KG\1\Plot2DViewer\Scene2D.h(78): warning C4018: <: несоответствие типов со знаком и без знака
+C:\WORK\KG\1\Plot2DViewer\Matrix_.h(203): warning C4715: Matrix<double>::operator*: значение возвращается не при всех путях выполнения
+  Plot2DViewer.vcxproj -> C:\WORK\KG\1\Debug\Plot2DViewer.exe
